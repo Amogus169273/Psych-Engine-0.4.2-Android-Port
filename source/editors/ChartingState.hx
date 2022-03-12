@@ -59,6 +59,8 @@ class ChartingState extends MusicBeatState
 		'Hurt Note',
 		'nota de peligro',
 		'staticNotes',
+		'Sword',
+		'Glitch'
 		'GF Sing',
 		'No Animation'
 	];
