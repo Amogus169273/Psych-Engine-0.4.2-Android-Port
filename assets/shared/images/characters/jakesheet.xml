@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Jake_sprite.png">
+	<!-- Created with Adobe Animate version 21.0.9.42677 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Jake Left note0000" x="0" y="0" width="1352" height="869" frameX="0" frameY="-10" frameWidth="1352" frameHeight="888"/>
+	<SubTexture name="Jake Left note0001" x="0" y="869" width="1315" height="868" frameX="-30" frameY="-11" frameWidth="1352" frameHeight="888"/>
+	<SubTexture name="Jake Left note0002" x="0" y="1737" width="1311" height="865" frameX="-34" frameY="-14" frameWidth="1352" frameHeight="888"/>
+	<SubTexture name="Jake Right note0000" x="0" y="2602" width="912" height="798" frameX="-3" frameY="-11" frameWidth="927" frameHeight="818"/>
+	<SubTexture name="Jake down note0000" x="0" y="5571" width="602" height="445" frameX="-80" frameY="-5" frameWidth="686" frameHeight="500"/>
+	<SubTexture name="Jake down note0001" x="604" y="5520" width="635" height="445" frameX="-49" frameY="-5" frameWidth="686" frameHeight="500"/>
+	<SubTexture name="Jake idle dance0000" x="0" y="3400" width="781" height="724" frameX="-55" frameY="0" frameWidth="863" frameHeight="724"/>
+	<SubTexture name="Jake up note0000" x="0" y="4848" width="604" height="723" frameX="-80" frameY="-20" frameWidth="686" frameHeight="749"/>
+	<SubTexture name="Jake up note0001" x="0" y="4124" width="684" height="724" frameX="0" frameY="-19" frameWidth="686" frameHeight="749"/>
+</TextureAtlas>
